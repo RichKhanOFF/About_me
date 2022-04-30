@@ -1,0 +1,56 @@
+.nav_3 {
+    margin-right: 24rem !important;
+}
+
+.navbar{
+    background-color: #fff8ef !important;
+    height: 96px;
+}
+.navbar-light .navbar-nav .nav-link {
+    /*color: #fab758; !important;*/
+}
+
+.nimadir{
+    color: #343f52;
+    font-size: 24px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #fab758; !important;
+    /*box-shadow: 0px 0px 49px 0px rgba(30, 30, 16, 0.2);*/
+}
+.p_1{
+    text-align: center;
+    color: black;
+    padding-top: 13px;
+}
+.alert{
+    height: 100px;
+}
+
+
+/* Navbar end*/
+
+/*Mene start*/
+
+.card_1 {
+    background-color:  #fff8ef;
+    height: 40rem;
+}
+
+.button_1 {
+    height: 50px;
+}
+
+.button_2 {
+    height: 50px;
+}
+
+.button_1:hover{
+    margin-top: -12px;
+    box-shadow: 0px 0px 49px 0px rgba(30, 30, 16, 0.2);
+}
+
+.button_2:hover{
+    margin-top: -12px;
+    box-shadow: 0px 0px 49px 0px rgba(30, 30, 16, 0.2);
+}

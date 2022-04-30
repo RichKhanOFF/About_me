@@ -1,0 +1,66 @@
+.title {
+    margin-top: 1px; /*Tashqi_tomondan_pastga_tushiradi*/
+    margin-left: 25px; /*Tashqi_tomondan_chap_tomonga_suradi*/
+}
+.car_one{
+    border: 1px solid white; /*Chegaralash--Karobka_yasash*/
+    border-radius: 25px; /*Ramkaga_ishlov_berish*/
+    width: 250px; /*Eniga_surish*/
+    margin-left: 45px; /*Chap_tomonga_surish*/
+    height: 500px; /*Buyiga*/
+}
+.sum_p{
+    font-size: 12px; /*Shrift_o'lchami*/
+    margin-left: 25px; /*Chap_tomonga_surish*/
+    /*margin-top: -41px;*/
+    /*margin-left: 130px;*/
+}
+
+.rasm_one {
+    width: 200px;
+    height: 200px;
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+.ker_sum{
+    height: 30px;
+    margin-left: 25px;
+    /*border: 1px solid yellow;*/
+    border-radius: 50px;
+    background-color: rgba(235,21,55);
+    width: 175px;
+}
+.p_summ_s {
+    margin-top: 7px;
+    text-align: center;
+    /*margin-left: ;*/
+    color: aliceblue;
+    padding-top: 4px;
+}
+
+.car_one:hover {
+    /*margin-left: 45rem;*/
+    /*width: 300px;*/
+    box-shadow: 0px 5px 5px 0px #8C8383;
+}
+.card_faz{
+    display: flex;
+    justify-content: center;
+}
+
+.text_start{
+    text-align: center;
+}
+
+.icon{
+
+}
+
+.insta_icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 12px;
+}
